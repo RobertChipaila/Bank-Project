@@ -1,1 +1,1 @@
-# Bank-Project
+# practical_project
